@@ -23,7 +23,7 @@
 
 JavaScript | React JS | Redux | Node JS | Express | PostgreSQL | Sequelize | HTML | CSS | Trello | Slack 
 
-
+<div>
   <img src="./assets/img/javascript.png" width="50" height="50" align="center"/>
     &nbsp;
   <img src="./assets/img/react.png" width="50" height="50" align="center"/>
@@ -46,6 +46,7 @@ JavaScript | React JS | Redux | Node JS | Express | PostgreSQL | Sequelize | HTM
     &nbsp;
   <img src="./assets/img/slack.png" width="50" height="50" align="center"/>
     &nbsp;
+</div>
 
 ---
 
