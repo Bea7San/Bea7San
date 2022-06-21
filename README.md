@@ -16,3 +16,31 @@
  - 🪐 I like to pay special attention to visual details and I am very interested in creating a great user interface.
  - 🤓 I love to learn new things and teach others what I know.
  - 🌱 I have a background as a biologist.
+---
+<h3>LANGUAGES AND TOOLS</h3>
+
+<p align="center">
+  <img src="./assets/img/javascript.png" width="50" height="50" align="center"/>
+    &nbsp;
+  <img src="./assets/img/react.png" width="50" height="50" align="center"/>
+    &nbsp;
+  <img src="./assets/img/redux.png" width="50" height="50" align="center"/>
+    &nbsp;
+  <img src="./assets/img/nodejs.png" width="50" height="50" align="center"/>
+    &nbsp;
+  <img src="./assets/img/express.png" width="50" height="50" align="center"/>
+    &nbsp;
+  <img src="./assets/img/postgresql.png" width="50" height="50" align="center"/>
+    &nbsp;
+  <img src="./assets/img/sequelize.png" width="50" height="50" align="center"/>
+    &nbsp;
+  <img src="./assets/img/html5.png" width="50" height="50" align="center"/>
+    &nbsp;
+  <img src="./assets/img/css.png" width="50" height="50" align="center"/>
+    &nbsp;
+  <img src="./assets/img/trello.png" width="50" height="50" align="center"/>
+    &nbsp;
+  <img src="./assets/img/slack.png" width="50" height="50" align="center"/>
+    &nbsp;
+</p>
+---
