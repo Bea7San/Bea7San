@@ -1,4 +1,5 @@
-<p align="center"><img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="400"/></p>
+<!-- <p align="center"><img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="400"/></p> -->
+<p align="center"><img src="https://media.giphy.com/media/l4kB1qYX3guLMXIxEo/giphy.gif" width="600"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/beasan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
@@ -19,7 +20,10 @@
 ---
 <h3>LANGUAGES AND TOOLS</h3>
 
-<p align="center">
+
+JavaScript | React JS | Redux | Node JS | Express | PostgreSQL | Sequelize | HTML | CSS | Trello | Slack 
+
+
   <img src="./assets/img/javascript.png" width="50" height="50" align="center"/>
     &nbsp;
   <img src="./assets/img/react.png" width="50" height="50" align="center"/>
@@ -42,5 +46,8 @@
     &nbsp;
   <img src="./assets/img/slack.png" width="50" height="50" align="center"/>
     &nbsp;
-</p>
+
 ---
+
+<h3>TAKE A LOOK TO MY PROJECTS</h3>
+
