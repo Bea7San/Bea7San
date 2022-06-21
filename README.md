@@ -1,5 +1,5 @@
 <!-- <p align="center"><img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="400"/></p> -->
-<p align="center"><img src="https://media.giphy.com/media/l4kB1qYX3guLMXIxEo/giphy.gif" width="600"/></p>
+<p align="center"><img src="https://media.giphy.com/media/McObrJEP9yypHTSMCC/giphy.gif" width="600"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/beasan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
