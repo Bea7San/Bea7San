@@ -56,18 +56,18 @@ JavaScript | React JS | Redux | Node JS | Express | PostgreSQL | Sequelize | HTM
    <p>LUXURENT</p>
 </a>
 
-<img src="./assets/projects/luxurent1.png" width="500" height="200">
-<img src="./assets/projects/luxurent2.png" width="500" height="200">
-<img src="./assets/projects/luxurent4.png" width="500" height="200">
-<img src="./assets/projects/luxurent3.png" width="500" height="200">
+<img src="./assets/projects/luxurent1.png" width="400" height="260">
+<img src="./assets/projects/luxurent2.png" width="400" height="260">
+<img src="./assets/projects/luxurent4.png" width="400" height="260">
+<img src="./assets/projects/luxurent3.png" width="400" height="260">
 
 <a href="https://pi-dogs-six.vercel.app">
    <p>LeDoggy</p>
 </a>
 
-<img src="./assets/projects/ledoggy1.png" width="500" height="200">
-<img src="./assets/projects/ledoggy2.png" width="500" height="200">
-<img src="./assets/projects/ledoggy3.png" width="500" height="200">
-<img src="./assets/projects/ledoggy4.png" width="500" height="200">
+<img src="./assets/projects/ledoggy1.png" width="400" height="260">
+<img src="./assets/projects/ledoggy2.png" width="400" height="260">
+<img src="./assets/projects/ledoggy3.png" width="400" height="260">
+<img src="./assets/projects/ledoggy4.png" width="400" height="260">
 
 
