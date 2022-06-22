@@ -50,7 +50,7 @@ JavaScript | React JS | Redux | Node JS | Express | PostgreSQL | Sequelize | HTM
 
 ---
 
-<h3>TAKE A LOOK TO MY PROJECTS</h3>
+<h3>TAKE A LOOK AT MY PROJECTS</h3>
 
 <a href="https://final-project-henry.vercel.app">
    <p>LUXURENT</p>
