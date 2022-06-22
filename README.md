@@ -52,3 +52,22 @@ JavaScript | React JS | Redux | Node JS | Express | PostgreSQL | Sequelize | HTM
 
 <h3>TAKE A LOOK TO MY PROJECTS</h3>
 
+<a href="https://final-project-henry.vercel.app">
+   <p>LUXURENT</p>
+</a>
+
+<img src="./assets/projects/luxurent1.png" width="500" height="260">
+<img src="./assets/projects/luxurent2.png" width="500" height="260">
+<img src="./assets/projects/luxurent4.png" width="500" height="260">
+<img src="./assets/projects/luxurent3.png" width="500" height="260">.
+
+<a href="https://pi-dogs-six.vercel.app">
+   <p>LeDoggy</p>
+</a>
+
+<img src="./assets/projects/ledoggy1.png" width="500" height="260">
+<img src="./assets/projects/ledoggy2.png" width="500" height="260">
+<img src="./assets/projects/ledoggy3.png" width="500" height="260">
+<img src="./assets/projects/ledoggy4.png" width="500" height="260">
+
+
