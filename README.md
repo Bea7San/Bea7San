@@ -11,7 +11,7 @@
 
 <h1 align="center">Hello there! <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="30"></h1>
 
- <h3>ABOUT ME:</h3>
+ <h3>ABOUT ME</h3>
  I'm a Full Stack developer mostly oriented towards the Front-end 👩🏽‍💻 
 
  - 🪐 I like to pay special attention to visual details and I am very interested in creating a great user interface.
